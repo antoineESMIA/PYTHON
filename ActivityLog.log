@@ -1,0 +1,53 @@
+2024-08-08 17:02:12: Monitoring started for path: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios
+2024-08-08 17:03:48: Monitoring disabled for path: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios
+2024-08-08 17:05:07: Monitoring started for path: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios
+2024-08-09 09:15:42: Monitoring disabled for path: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios
+2024-08-09 09:16:05: Monitoring started for path: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios
+2024-08-09 09:16:14: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s2_nco.gdx was Deleted at 8/9/2024 9:16:14 AM
+2024-08-09 09:16:14: DELETED: Initiating deletion for C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s2_nco.gdx
+2024-08-09 09:16:14: Attempting to delete on_nz50s2_nco.gdx from Datuum
+2024-08-09 09:16:37: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s2_nco.gdx was Created at 8/9/2024 9:16:36 AM
+2024-08-09 09:16:37: CREATED: Starting push to Datuum for C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s2_nco.gdx
+2024-08-09 09:16:37: Starting upload of on_nz50s2_nco.gdx to Datuum
+2024-08-09 09:18:16: SUCCESS: Uploaded on_nz50s2_nco.gdx - Response: {"name":"on_nz50s2_nco.gdx","path":"/data/upload/66b27353256cf952a3150057_on_nz50s2_nco.gdx"}
+2024-08-09 09:18:16: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s5_nco2.gdx was Created at 8/9/2024 9:16:36 AM
+2024-08-09 09:18:16: CREATED: Starting push to Datuum for C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s5_nco2.gdx
+2024-08-09 09:18:16: Starting upload of on_nz50s5_nco2.gdx to Datuum
+2024-08-09 09:19:59: SUCCESS: Uploaded on_nz50s5_nco2.gdx - Response: {"name":"on_nz50s5_nco2.gdx","path":"/data/upload/66b27353256cf952a3150057_on_nz50s5_nco2.gdx"}
+2024-08-09 09:19:59: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s7_nco.gdx was Created at 8/9/2024 9:16:36 AM
+2024-08-09 09:19:59: CREATED: Starting push to Datuum for C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s7_nco.gdx
+2024-08-09 09:19:59: Starting upload of on_nz50s7_nco.gdx to Datuum
+2024-08-09 09:21:48: SUCCESS: Uploaded on_nz50s7_nco.gdx - Response: {"name":"on_nz50s7_nco.gdx","path":"/data/upload/66b27353256cf952a3150057_on_nz50s7_nco.gdx"}
+2024-08-09 09:21:48: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_aref_nco.gdx was Created at 8/9/2024 9:16:36 AM
+2024-08-09 09:21:48: CREATED: Starting push to Datuum for C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_aref_nco.gdx
+2024-08-09 09:21:48: Starting upload of on_aref_nco.gdx to Datuum
+2024-08-09 10:33:18: Monitoring disabled for path: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios
+2024-08-13 10:23:42: Monitoring started for path: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios
+2024-08-13 10:26:14: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s7_nco.gdx was Deleted at 8/13/2024 10:26:14 AM
+2024-08-13 10:26:14: DELETED: Initiating deletion for C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s7_nco.gdx
+2024-08-13 10:26:14: Attempting to delete on_nz50s7_nco.gdx from Datuum
+2024-08-13 10:26:14: Deleted on_nz50s7_nco.gdx - Response: @{scenario=on_nz50s7_nco; name=on_nz50s7_nco.gdx; path=/data/upload/66b27353256cf952a3150057_on_nz50s7_nco.gdx; n=1}
+2024-08-13 10:26:23: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s5_nco2.gdx was Deleted at 8/13/2024 10:26:23 AM
+2024-08-13 10:26:23: DELETED: Initiating deletion for C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s5_nco2.gdx
+2024-08-13 10:26:23: Attempting to delete on_nz50s5_nco2.gdx from Datuum
+2024-08-13 10:26:23: Deleted on_nz50s5_nco2.gdx - Response: @{scenario=on_nz50s5_nco2; name=on_nz50s5_nco2.gdx; path=/data/upload/66b27353256cf952a3150057_on_nz50s5_nco2.gdx; n=1}
+2024-08-13 10:26:32: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s2_nco.gdx was Deleted at 8/13/2024 10:26:32 AM
+2024-08-13 10:26:32: DELETED: Initiating deletion for C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s2_nco.gdx
+2024-08-13 10:26:32: Attempting to delete on_nz50s2_nco.gdx from Datuum
+2024-08-13 10:26:32: Deleted on_nz50s2_nco.gdx - Response: @{scenario=on_nz50s2_nco; name=on_nz50s2_nco.gdx; path=/data/upload/66b27353256cf952a3150057_on_nz50s2_nco.gdx; n=1}
+2024-08-13 10:26:32: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_aref_nco.gdx was Deleted at 8/13/2024 10:26:32 AM
+2024-08-13 10:26:32: DELETED: Initiating deletion for C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_aref_nco.gdx
+2024-08-13 10:26:32: Attempting to delete on_aref_nco.gdx from Datuum
+2024-08-13 10:26:50: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s2_nco.gdx was Created at 8/13/2024 10:26:50 AM
+2024-08-13 10:26:50: CREATED: Starting push to Datuum for C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s2_nco.gdx
+2024-08-13 10:26:50: Starting upload of on_nz50s2_nco.gdx to Datuum
+2024-08-13 10:30:58: SUCCESS: Uploaded on_nz50s2_nco.gdx - Response: {"name":"on_nz50s2_nco.gdx","path":"/data/upload/66b27353256cf952a3150057_on_nz50s2_nco.gdx"}
+2024-08-13 10:30:58: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s5_nco2.gdx was Created at 8/13/2024 10:26:50 AM
+2024-08-13 10:30:58: CREATED: Starting push to Datuum for C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s5_nco2.gdx
+2024-08-13 10:30:58: Starting upload of on_nz50s5_nco2.gdx to Datuum
+2024-08-13 10:34:58: SUCCESS: Uploaded on_nz50s5_nco2.gdx - Response: {"name":"on_nz50s5_nco2.gdx","path":"/data/upload/66b27353256cf952a3150057_on_nz50s5_nco2.gdx"}
+2024-08-13 10:34:58: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s7_nco.gdx was Created at 8/13/2024 10:26:50 AM
+2024-08-13 10:34:58: CREATED: Starting push to Datuum for C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios\on_nz50s7_nco.gdx
+2024-08-13 10:34:58: Starting upload of on_nz50s7_nco.gdx to Datuum
+2024-08-13 10:39:40: SUCCESS: Uploaded on_nz50s7_nco.gdx - Response: {"name":"on_nz50s7_nco.gdx","path":"/data/upload/66b27353256cf952a3150057_on_nz50s7_nco.gdx"}
+2024-08-13 10:42:19: Monitoring disabled for path: C:\Users\AntoineDuplantie-Gre\OneDrive - esmia.ca\Desktop\POWERSHELL\Scenarios
