@@ -16,7 +16,7 @@ function Push_to_datuum {
 
     $form = @{
         "file" = Get-Item -Path $Path
-        "scenario" = $cleanName
+        "scenario" = $cleanNamevbnxcvb
         "timestamp" = $timestamp
     }
 
