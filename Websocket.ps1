@@ -17,7 +17,7 @@ function Start_WebSocketConnection {
     Write-Output "Connecting..."
     $connectTask = $ws.ConnectAsync("$Url/$client_id", $cts.Token)
     do { Sleep(1) }
-    until ($connectTask.IsCompleted)
+    until ($connectTask.IsCompleted)bfdgbdfsxvgbxcxc
     Write-Output "Connected!"
 sgfdgfsdgsd
     $recv_job = {
