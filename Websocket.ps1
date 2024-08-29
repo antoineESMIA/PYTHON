@@ -19,7 +19,7 @@ function Start_WebSocketConnection {
     do { Sleep(1) }
     until ($connectTask.IsCompleted)
     Write-Output "Connected!"
-
+sgfdgfsdgsd
     $recv_job = {
         param($ws, $client_id, $recv_queue)
 
